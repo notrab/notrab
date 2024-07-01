@@ -1,10 +1,11 @@
-### Hey 👋
+## Hey, I'm Jamie 👋
 
-![Banner](https://user-images.githubusercontent.com/950181/139955505-01e6cb5d-b21f-4e42-893f-d028179764cc.png)
+I've been around since the days of dial-up modems and flash websites. Despite my age (in tech years, at least), I'm always working with the latest tools, including React, Next.js, SQLite, Vector Databases, GraphQL, and more.
 
-I'm Jamie. Software developer working with Headless APIs, JavaScript, React, and GraphQL.
+You can find and chat with me on the following sites:
 
-You can follow me on [Twitter](https://twitter.com/notrab), and [LinkedIn](https://www.linkedin.com/in/notrab/), _if that's your thing_.
+* [Twitter / X](https://x.com/notrab)
+* [YouTube](https://www.youtube.com/@notrab)
+* [LinkedIn](https://www.linkedin.com/in/notrab/)
 
 I'm always looking for projects to collaborate on, so get in touch if you think I can help 😀
-
